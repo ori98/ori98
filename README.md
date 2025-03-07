@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ori98.github.io/)
 <h1 align="center">Hi 👋, I'm Orijit Bhattacharya</h1>
-<h3 align="center">A full-stack dev currently pursuing MSCS at Northeastern University, Boston.</h3>
+<h3 align="center">A full-stack dev currently working as a SWE at State Street, Boston.</h3>
 <img align="right" alt="Coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [BusWatch](https://github.com/ori98/buswatch)
