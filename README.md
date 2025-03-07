@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BusWatch](https://github.com/ori98/buswatch)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Networking (CCNA)**
 
 - 🤝 I’m looking for help with [TCM](https://github.com/ori98/TCM.git)
 
